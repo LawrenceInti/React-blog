@@ -1,0 +1,258 @@
+.the{
+  font-family: Verdana;
+  font-size: 15px;
+  font-weight: bolder;
+  writing-mode: vertical-lr;
+}
+.siren{
+  font-family: Verdana;
+  font-size: 55px;
+}
+.thesiren{
+  margin: auto;
+  text-align: center;
+}
+.link{
+  font-size: 20px;
+  font-family:monospace;
+  text-decoration: none;
+  display: flex;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin: 10px;
+  justify-content: space-evenly;
+  background-color: lightslategray;
+}
+.h1image{
+width: 400px;
+height: 200px;
+}
+
+
+/*three css */
+.three{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+/*The latest css */
+.theLatest{
+  display: flex;
+  justify-content: space-evenly;
+  gap: 35px;
+}
+.h2image{
+height: 200px;
+width: 400px;
+}
+.h2title{
+  font-size: 15px;
+}
+
+
+/* latest articles css */
+.h3text{
+  position:absolute;
+  left: 460px;
+  right: 100px;
+}
+.h3title{
+  font-size: 23px;
+  height: 100px;
+  width: 350px;
+  position: absolute;
+  bottom: 250px;
+}
+.h3content{
+  position: relative;
+  bottom: 180px;
+  width: 350px;
+  font-family: cursive;
+}
+.h3image{
+  margin-top: 15px;
+  margin-left: 70px;
+  height: 280px;
+  width: 350px;
+}
+.h3add{
+  margin-top: 10px;
+  margin-left: 300px;
+  padding-top: 400px;
+  padding-bottom: 400px;
+  font-size: xx-large;
+  text-align: center;
+  position: absolute;
+  left: 800px;
+  width: 300px;
+  border: 2px solid black;
+}
+
+/* chinawall css */
+.chinawall{
+  height: 1000px;
+  width: 900px;
+  position: absolute;
+  top: 2200px;
+}
+/* topPosts css */
+.topPosts{
+  position: relative;
+  top: -200px;
+  left: 1000px;
+}
+.h4title{
+  font-size: 20px;
+  width: 250px;
+}
+.h4image{
+  height: 250px;
+  width: 400px;
+}
+.h4head{
+  position: absolute;
+  right: 300px;
+  top: 1770px;
+  text-decoration: underline;
+}
+
+/* latestStories css */
+.latestStories{
+  position: absolute;
+  top: 3450px;
+}
+.h5text{
+  display: flex;
+  justify-content: space-evenly;
+}
+.h5title{
+  font-size: 30px;
+  height: 50px;
+  width: 450px;
+}
+.h5content{
+  margin-top: 70px;
+  height: 300px;
+  width: 450px;
+}
+/* for hollywood */
+.component1{
+  position: absolute;
+  left: 1100px;
+  top: 600px;
+}
+.component2{
+  position: absolute;
+  left: 100px;
+  top: 650px;
+}
+.component{
+  margin-left:100px;
+  margin-top: 100px;
+}
+.h-image{
+  height: 200px;
+  width: 400px;
+}
+.h-image1{
+  height: 100px;
+  width: 200px;
+  position: relative;
+  top: 100px;
+  right: 100px;
+}
+.h-image2{
+  height: 300px;
+  width: 450px;
+}
+.h-title{
+  font-size: 15px;
+  position: relative;
+  top: 100px;
+}
+.h-title1{
+  font-size: 10px;
+  position: relative;
+  top: 305px;
+  right: 320px;
+}
+.h-title2{
+  font-size: 25px;
+  height: 10px;
+  width: 500px;
+}
+.h-content{
+  font-size: 10px;
+  position: relative;
+  top: 100px;
+}
+.h-text{
+  position: relative;
+  left: 430px;
+  bottom: 280px;
+  height: 30px;
+  width: 300px;
+}
+.h-text1{
+  position: relative;
+  left: 430px;
+  bottom: 310px;
+  height: 20px;
+  width: 150px;
+}
+.topic2{
+  position: absolute;
+  bottom: 100px;
+  left: 800px;
+}
+.h-add{
+  padding-top: 400px;
+  padding-bottom: 400px;
+  margin-top: -900px;
+  font-size: xx-large;
+  text-align: center;
+  position: absolute;
+  left: 1000px;
+  width: 300px;
+  border: 2px solid black;
+}
+
+/* Detail css */
+.detail{
+  text-align: center;
+}
+
+.de-content{
+  text-align: center;
+  width: 500px;
+  margin-left: 33%;
+  font-size: 25px;
+}
+.de-image{
+  height: 500px;
+  width: 800px;
+}
+/* Blog css */
+.b-image{
+  height: 200px;
+  width: 300px;
+}
+.b-title{
+  height: 200px;
+  width: 300px;
+  font-size: 20px;
+  margin-bottom: -110px;
+}
+.b-content{
+  height: 200px;
+  width: 300px;
+  font-size: 10px;
+  margin-bottom: -100px;
+}
+.blog{
+  position: relative;
+  top: 100px;
+  display: flex;
+  justify-content: space-evenly;
+}
